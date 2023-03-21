@@ -30,10 +30,7 @@ function App() {
   Here's to many more years of laughter, love, and endless memories.
 </p>
 
-        <div className="button-container">
-          <button className="share-button">Share on Social Media</button>
-          <button className="email-button">Send as Email</button>
-        </div>
+ 
       </header>
     </div>
   );
